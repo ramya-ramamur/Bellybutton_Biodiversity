@@ -12,7 +12,7 @@ The interactive dashboard will review the data with:
 * Bubble chart that displays each sample.
 * Gauge Chart with the weekly washing frequency of the individual.
 
-Resources
-Data Source: ["Belly button samples data"](
-Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
+# Resources
+* Data Source: ["Belly button samples data"](https://github.com/ramya-ramamur/Bellybutton_Biodiversity/blob/main/static/samples.json)
+* Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
 
