@@ -34,5 +34,5 @@ The data on the page shows details about Test Subject ID No.:940
 Page appearance when filtered with Test Subject ID No.:962. 
 The information in the bar cart, gauge chart and bubble chart including demographic information changes with selection of "Test Subject ID No: 962" from the dropdown menu with hover feature active for bar and bubble charts. 
 
-<img width="1169" alt="Screen Shot 2022-01-23 at 5 49 19 AM" src="https://user-images.githubusercontent.com/75961057/150681716-6f32f80a-a467-4f2f-af47-64fd5c6807c4.png">
+<img width="1168" alt="Screen Shot 2022-01-23 at 6 03 39 AM" src="https://user-images.githubusercontent.com/75961057/150682235-bb1585dd-40d4-43b3-a225-72e83b435860.png">
 <img width="1169" alt="Screen Shot 2022-01-23 at 5 49 51 AM" src="https://user-images.githubusercontent.com/75961057/150681719-f6ec9eba-94a6-4da2-99fc-9ff122d649af.png">
